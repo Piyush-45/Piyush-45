@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Piyush-45](https://github.com/Piyush-45)
+- 👨‍💻 All of my projects are available at https://github.com/Piyush-45?tab=repositories
 
 - 💬 Ask me about **Html, CSS, JavaScript**
 

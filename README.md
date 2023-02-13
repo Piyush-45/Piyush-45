@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [My personal Portfolio](https://piyushtyagidev.netlify.app/)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently making  Some New Projects
 
 - 👨‍💻 All of my projects are available at https://github.com/Piyush-45?tab=repositories
 
-- 💬 Ask me about **Html, CSS, JavaScript**
+- 💬 Ask me about **Html, CSS, JavaScript, React Js, Next Js**
 
 - 📫 How to reach me **piyushtyagidev@gmail.com**
 

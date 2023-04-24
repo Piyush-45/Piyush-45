@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [My personal Portfolio](https://piyushtyagidev.netlify.app/)
+- 🔭 I’m currently working on [My personal Portfolio] (piyushtyagi.tech)
 
 - 🌱 I’m currently making  Some New Projects
 

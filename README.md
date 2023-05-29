@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piyush Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on https://whimsical-monstera-745daf.netlify.app/
+- 🔭 I’m currently working on crazy movie revieW app with some crazy feature name EMOTION ELIXIR . 
 
 - 🌱 My Personal [Portfolio Website](piyushtyagi.tech) 
 
-- 👨‍💻 All of my projects are available at piyushtyagi.tech
+<!-- - 👨‍💻 All of my projects are available at github -->
 
 - 💬 Ask me about **Html, CSS, JavaScript, React Js, Next Js**
 
 - 📫 How to reach me **piyushtyagidev@gmail.com**
 
-- 📄 Know about my experiences [piyushtyagidev.netlify.app](piyushtyagidev.netlify.app)
+
 
 <h3 align="left"> Connect with me 👋:</h3>
 <p align="left" mt-40>
